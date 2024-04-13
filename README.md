@@ -44,19 +44,21 @@ How to run project's (frontend & backend part)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/niranjandahal/MovieApp_Flutter.git
+   git clone https://github.com/mukesh567/notesApp.git
 
 2.Navigate to the project directory:
     
-    cd movie-app
+    cd client(For frontend)  
+    cd server (For backend)
 
 3.Install dependencies:
    
-      flutter pub get
+     npm install
 
 4.Run the app
 
-     flutter run
+     npm run start (For frontend)
+     npm run dev (For backend)
 
       
 
